@@ -10,7 +10,7 @@ const Navbar = () => {
             <h1 className="text-2xl font-semibold text-snow">EasyBill</h1>
             <Link
               href={'/main-page'}
-              className='xl:w-56" flex items-center justify-center gap-4 rounded bg-lava p-2 font-semibold text-slate-50 transition-all hover:bg-lava/80 xl:h-12'
+              className='xl:w-56" flex items-center justify-center gap-4 rounded bg-lava p-2 font-semibold text-slate-50 transition-all hover:bg-lava/80 md:p-4 xl:h-12'
             >
               Entrar com o Google
             </Link>
